@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Web Technologies </title>
+<title> Exercise </title>
 </head>
 <body>
 <h1>REGISTRATION </h1>
